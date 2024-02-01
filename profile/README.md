@@ -26,4 +26,7 @@ Things that make Essence an essential part of a software developer's life👩‍
 ![image](https://github.com/EssenceHQ/.github/assets/54448525/7305006c-265d-4512-ace8-85a18e8ce8b9)
 ![image](https://github.com/EssenceHQ/.github/assets/54448525/b16043dc-f446-4671-8a53-59226bfdfd60)
 
+Try out the beta live - [ESSENCE-WEB](https://essence-frontend.vercel.app/)
+
+
 
